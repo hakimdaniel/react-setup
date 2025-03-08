@@ -12,3 +12,5 @@ react offline setup tgz and zip setup file.
 ```console
 npm install my-app-react.tgz
 ```
+
+Happy hacking
