@@ -10,7 +10,12 @@ react offline setup tgz and zip setup file.
 
 ## Install
 ```console
-npm install my-app-react.tgz
+cd react-setup && tar -xzvf my-app-0.1.0.tgz
 ```
 
+
+# Pack 
+```bash
+tar -czvf my-app-0.1.0.tgz .
+```
 Happy hacking
